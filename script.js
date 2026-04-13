@@ -1,7 +1,7 @@
 //🏆 Code Question 1
 
 //console.log(hamburger.name) => "Double Cheese Burger"
-//console.log(secondBurger.name) => "Double Chees Burger"
+//console.log(secondBurger.name) => "Double Cheese Burger"
 
 /*---------------------------------------------------------- */
 
@@ -27,7 +27,7 @@
 
 // 🎯 Code Question 5 (Bonus)
 
-//console.log(hamburger.maker.name); => "Anonymous Chef";
+//console.log(hamburger.maker.name); => "Anonymous Chef";  CORREZIONE: CHEF HYUR
 //console.log(secondBurger.maker.name); => "Chef Hyur"
-//console.log(hamburger.maker.restaurant.name); => "Hyur's Burgers"
-//console.log(secondBurger.maker.restaurant.name); => "Chef Hyur"
+//console.log(hamburger.maker.restaurant.name); => "Hyur's Burgers"  CORREZIONE: HYUR'S II
+//console.log(secondBurger.maker.restaurant.name); => "Chef Hyur" CORREZIONE: HYUR'S II
