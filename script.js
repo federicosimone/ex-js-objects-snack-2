@@ -14,4 +14,10 @@
 
 //🏆 Code Question 3
 
-// Sono stati creati 9 oggetti, considerando hamburger 
+// Sono stati creati 9 oggetti, considerando hamburger
+
+/*---------------------------------------------------------- */
+
+//🏆 Code Question 4
+
+//Il modo migliore per clonare l'oggetto chef è con lo spread operator perchè contiene una funzione e non è un tipo primitivo (essendo un oggetto)
